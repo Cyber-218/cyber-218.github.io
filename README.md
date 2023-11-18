@@ -26,7 +26,7 @@
   * [Installation](#installation)
 ## About The Project
 
-![Screen Shot](https://pasteboard.co/IgaeI7jyHUK8.jpg)
+![Screen Shot](https://gcdnb.pbrd.co/images/rmgApqo8rVfF.jpg?o=1)
 
 A personal profile website project to display links to my accounts and my Discord server 
 
