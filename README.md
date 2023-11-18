@@ -26,7 +26,7 @@
   * [Installation](#installation)
 ## About The Project
 
-![Screen Shot](https://i.postimg.cc/KcCGR4sT/cyber-218-github-io-1024x768desktop-a0ae96.png)
+![Screen Shot](https://pasteboard.co/IgaeI7jyHUK8.jpg)
 
 A personal profile website project to display links to my accounts and my Discord server 
 
